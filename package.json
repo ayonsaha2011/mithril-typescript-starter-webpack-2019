@@ -1,14 +1,14 @@
 {
 	"name": "mithril-tsx",
 	"version": "1.0.0",
-	"description": "mithril typescript tsx starter template",
+	"description": "mithril typescript tsx webpack starter template",
 	"scripts": {
 		"start": "webpack-dev-server --mode development --open",
 		"build": "webpack --mode development",
 		"build:prod": "webpack --mode production"
 	},
 	"keywords": [],
-	"author": "Ardian Shala",
+	"author": "Ayon Saha",
 	"license": "MIT",
 	"dependencies": {
 		"bootstrap": "^4.3.1",
